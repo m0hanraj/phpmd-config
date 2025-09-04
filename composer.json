@@ -1,0 +1,15 @@
+{
+    "name": "m0hanraj/phpmd-config",
+    "description": "git remote add origin git@github.com:m0hanraj/phpmd-config.git",
+    "type": "phpmd-standard",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohanraj",
+            "email": "mohanraj.pachaiyappan@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmd/phpmd": "^2.15"
+    }
+}
